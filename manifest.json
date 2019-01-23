@@ -229,10 +229,6 @@
                     "contextPath": "/personalizationpromotionssmartedit"
                 },
                 {
-                    "name": "oauth2",
-                    "contextPath": "/authorizationserver"
-                },
-                {
                     "name": "cmswebservices",
                     "contextPath": "/cmswebservices"
                 },
@@ -251,10 +247,6 @@
                 {
                     "name": "personalizationsearchsmartedit",
                     "contextPath": "/personalizationsearchsmartedit"
-                },
-                {
-                    "name": "adaptivesearchwebservices",
-                    "contextPath": "/adaptivesearchwebservices"
                 }
             ]
         },
@@ -338,6 +330,14 @@
                 {
                     "name": "smartedit",
                     "contextPath": "/smartedit"
+                },
+                {
+                    "name": "oauth2",
+                    "contextPath": "/authorizationserver"
+                },
+                {
+                    "name": "adaptivesearchwebservices",
+                    "contextPath": "/adaptivesearchwebservices"
                 }
             ]
         },
