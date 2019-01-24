@@ -393,10 +393,6 @@
                     "contextPath": "/rest"
                 },
                 {
-                    "name": "smartedit",
-                    "contextPath": "/smartedit"
-                },
-                {
                     "name": "oauth2",
                     "contextPath": "/authorizationserver"
                 },
