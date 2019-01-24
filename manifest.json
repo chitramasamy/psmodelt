@@ -258,6 +258,18 @@
                     "contextPath": "/backoffice"
                 },
                 {
+                    "name": "customsitestorefront",
+                    "contextPath": ""
+                },
+                {
+                    "name": "acceleratorservices",
+                    "contextPath": "/acceleratorservices"
+                },
+                {
+                    "name": "ycommercewebservices",
+                    "contextPath": "/rest"
+                },
+                {
                     "name": "smartedit",
                     "contextPath": "/smartedit"
                 },
