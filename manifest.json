@@ -274,6 +274,10 @@
                     "contextPath": "/smartedit"
                 },
                 {
+                    "name": "oauth2",
+                    "contextPath": "/authorizationserver"
+                },
+                {
                     "name": "cmssmartedit",
                     "contextPath": "/cmssmartedit"
                 },
